@@ -5,10 +5,14 @@ ChefMemory アプリの利用規約・プライバシーポリシーを GitHub P
 
 - 利用規約: https://jiro-ex.github.io/chef-memory-docs/terms.html
 - プライバシーポリシー: https://jiro-ex.github.io/chef-memory-docs/privacy.html
+- サポート（App Store Connect のサポートURL）: https://jiro-ex.github.io/chef-memory-docs/support.html
+- 特定商取引法に基づく表記: https://jiro-ex.github.io/chef-memory-docs/tokushoho.html
 
 ## 構成
 
-- `terms.html` / `privacy.html` — 本文（素の HTML。Jekyll は `.nojekyll` で無効化）
+- `terms.html` / `privacy.html` — 規約・ポリシー本文（素の HTML。Jekyll は `.nojekyll` で無効化）
+- `support.html` — お問い合わせ先とよくある質問
+- `tokushoho.html` — 特定商取引法に基づく表記（氏名・住所・電話番号は請求時に開示する形式。開示請求が来たらメールで回答する）
 - `style.css` — 共通スタイル
 - `index.html` — 各ページへのリンク
 
